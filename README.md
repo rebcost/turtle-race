@@ -19,4 +19,4 @@
 
 # Acesse aqui 👇
 
-link replit
+https://replit.com/@rebcost/turtle-race#turtleRace.py
