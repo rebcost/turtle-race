@@ -4,8 +4,17 @@
 </div>
 
 - Projeto Python em que foi colocado em prática o uso do conceito de *High Order Functions*. 
-
 - O conceito de *High Order Functions* está relacionado a uma função sendo passada como parâmetro para outra função.
+
+## Descrição 
+
+- O usuário deve informar a cor da tartaruga que será a vencedora da corrida. 
+
+- O nome das cores deve ser informado em inglês. É disponível as seguintes cores: (*red, yellow, orange, green, blue, purple*)
+
+- Uma função aleatória foi implementada para tornar o resultado imprevisível.
+
+- Ao final o console retorna uma mensagem informando se ganhou ou perdeu.
 
   
 
